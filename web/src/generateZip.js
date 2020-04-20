@@ -9,7 +9,7 @@ import * as themerAtomUi from 'themer-atom-ui';
 import * as themerBbedit from 'themer-bbedit';
 import * as themerBrave from 'themer-brave';
 import * as themerChrome from 'themer-chrome';
-import * as themerFirefox from 'themer-firefox';
+import * as themerFirefox from 'themer-mozilla-firefox';
 import * as themerCmd from 'themer-cmd';
 import * as themerConemu from 'themer-conemu';
 import * as themerGnomeTerminal from 'themer-gnome-terminal';
